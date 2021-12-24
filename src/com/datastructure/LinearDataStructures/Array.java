@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.LinearDataStructures;
 
 public class Array {
     private int[] items;

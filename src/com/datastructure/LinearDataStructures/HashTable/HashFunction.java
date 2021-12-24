@@ -1,4 +1,4 @@
-package com.datastructure.HashTable;
+package com.datastructure.LinearDataStructures.HashTable;
 
 // Assume array is of size 100
 public class HashFunction {

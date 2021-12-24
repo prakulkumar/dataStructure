@@ -1,4 +1,4 @@
-package com.datastructure.Queue;
+package com.datastructure.LinearDataStructures.Queue;
 
 import java.util.Queue;
 import java.util.Stack;

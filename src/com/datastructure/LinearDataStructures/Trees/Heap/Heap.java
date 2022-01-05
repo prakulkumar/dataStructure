@@ -1,4 +1,4 @@
-package com.datastructure.LinearDataStructures.Trees;
+package com.datastructure.LinearDataStructures.Trees.Heap;
 
 public class Heap {
     private int[] items;

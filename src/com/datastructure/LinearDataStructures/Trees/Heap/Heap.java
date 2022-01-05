@@ -53,7 +53,7 @@ public class Heap {
         return root;
     }
 
-    private boolean isArrayEmpty() {
+    public boolean isArrayEmpty() {
         return size == 0;
     }
 

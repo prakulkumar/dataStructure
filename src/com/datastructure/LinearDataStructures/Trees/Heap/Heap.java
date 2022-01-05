@@ -111,4 +111,11 @@ public class Heap {
     private int rightChildIndex(int index) {
         return index * 2 + 2;
     }
+
+    public int max() {
+        if (isArrayEmpty())
+            throw new IllegalStateException();
+
+        return items[0];
+    }
 }

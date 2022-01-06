@@ -21,6 +21,7 @@ public class HashTable {
 
     private LinkedList<Entry>[] entries;
 
+    @SuppressWarnings("unchecked")
     public HashTable(int capacity) {
         entries = new LinkedList[capacity];
     }

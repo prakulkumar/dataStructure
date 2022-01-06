@@ -1,4 +1,4 @@
-package com.datastructure.LinearDataStructures.Trees;
+package com.datastructure.NonLinearDataStructure.Trees;
 
 import java.util.ArrayList;
 

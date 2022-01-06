@@ -1,4 +1,4 @@
-package com.datastructure.LinearDataStructures.Trees.Heap;
+package com.datastructure.NonLinearDataStructure.Heap;
 
 public class HeapSort {
     private int[] numbers;

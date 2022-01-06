@@ -1,4 +1,4 @@
-package com.datastructure.LinearDataStructures.Trees.Heap;
+package com.datastructure.NonLinearDataStructure.Heap;
 
 public class PriorityQueueWithHeap {
     private Heap heap = new Heap(20);

@@ -1,4 +1,4 @@
-package com.datastructure.LinearDataStructures.Trees;
+package com.datastructure.NonLinearDataStructure.Trees;
 
 public class AVLTree {
     private class AVLNode {

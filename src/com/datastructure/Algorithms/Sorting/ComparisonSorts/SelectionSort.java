@@ -1,4 +1,4 @@
-package com.datastructure.Algorithms.Sorting;
+package com.datastructure.Algorithms.Sorting.ComparisonSorts;
 
 public class SelectionSort {
     public void sort(int[] array) {
